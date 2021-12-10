@@ -7,12 +7,12 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+My project is a daily planner.  You can use it to keep track of tasks.  
 ### Features
-Include Features here
+CRUD functionality for tasks
 ### Technologies
-Include Technologies here
+Java, Springboot, MYSQL, Angular
 ### What I'll Have to Learn
-Include what you will need to learn here
+Alot
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/elG2H7Rz/liftoff-project-board
