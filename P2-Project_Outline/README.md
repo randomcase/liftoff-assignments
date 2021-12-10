@@ -13,6 +13,6 @@ CRUD functionality for tasks
 ### Technologies
 Java, Springboot, MYSQL, Angular
 ### What I'll Have to Learn
-Alot
+Angular.
 ### Project Tracker
 https://trello.com/b/elG2H7Rz/liftoff-project-board
